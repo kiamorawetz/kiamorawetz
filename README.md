@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data-driven projects that promote equity, accessibility, or public good  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kiamorawetz)
 - 😄 Pronouns: she/her  
-- ⚡ Fun fact: I wrote my senior thesis on the metaphysics of intersectionality and graduated with a degree in Philosophy!
+- ⚡ Fun fact: I wrote my senior thesis on the metaphysics of intersectionality and graduated with an undergraduate degree in Philosophy!
 
 <!---
 kiamorawetz/kiamorawetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
